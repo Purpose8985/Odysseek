@@ -52,8 +52,7 @@ After each unlock, the game can also give **transport guidance** between checkpo
 
 - **Solo:** one player completes an adventure alone.
 - **Duo:** two players solve clues together.
-- **Squad:** a small group, proposed at about four players *(limit open)*.
-- **Co-op:** players collaborate on the same puzzles.
+- **Co-op:** 3-5 players collaborate on the same puzzles.
 - **Head-to-head:** players or teams race to finish the same adventure first.
 
 ## Features
@@ -89,31 +88,7 @@ Potential additional revenue:
 
 Pricing and partnership structures are not finalised.
 
-## Tech stack (proposed)
 
-The concept document does not lock in a stack. The choices below are proposals for the hackathon build and can change.
-
-| Area | Proposal |
-|---|---|
-| Game client | Free or open-source engine (for example Godot, or Phaser for web) |
-| Maps | Google Maps or an equivalent mapping service |
-| Location | Device GPS with geofenced checkpoints |
-| Backend | Accounts, progress, leaderboards and ratings (service to be chosen) |
-| Content | Adventures, clues and trivia stored as data so new cities and hunts need no new code |
-
-## Roadmap
-
-- [ ] Finalise story, riddles and checkpoints for one pilot adventure
-- [ ] Map view with live location and distance to the next checkpoint
-- [ ] Checkpoint unlock flow (arrive, solve, unlock next)
-- [ ] Local and Tourist mode content variants
-- [ ] Ratings and post-adventure trivia
-- [ ] Challenge Mode with leaderboards
-- [ ] Solo, Duo and Squad play
-- [ ] Payment flow for paid adventures
-- [ ] Additional adventures and cities
-- [ ] Partner and sponsor integrations
-  
 ## Team Bogos Binted
 
 Hack N Pitch 2026.
