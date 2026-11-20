@@ -17,9 +17,6 @@ Built by a team of four for **Hack N Pitch 2026**.
 - [Game modes](#game-modes)
 - [Features](#features)
 - [Cities and adventures](#cities-and-adventures)
-- [Business model](#business-model)
-- [Tech stack (proposed)](#tech-stack-proposed)
-- [Roadmap](#roadmap)
 ---
 
 ## The idea
@@ -72,21 +69,6 @@ Adventures are organised by city, similar to how BookMyShow organises events. Pl
 Candidate cities: Kolkata, Mumbai, Delhi, Lucknow, Kanpur, Chennai, and other major Indian cities.
 
 Each city can hold several independent adventures (for example, four to six in Kolkata), each with its own story, route and area. New adventures can be added to existing cities over time.
-
-## Business model
-
-The primary model is **paid adventures**: each hunt is sold as its own experience.
-
-Potential additional revenue:
-
-- Premium access to exclusive stories and routes
-- Sponsored treasure hunts
-- Partnerships with tourism companies and travel agencies
-- Collaborations with local businesses, restaurants, museums and heritage organisations
-- Ticketing and event platforms such as BookMyShow
-- Institutional and tourism-oriented experiences
-
-Pricing and partnership structures are not finalised.
 
 
 ## Team Bogos Binted
