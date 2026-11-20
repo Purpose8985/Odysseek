@@ -117,34 +117,17 @@ The concept document does not lock in a stack. The choices below are proposals f
 - [ ] Payment flow for paid adventures
 - [ ] Additional adventures and cities
 - [ ] Partner and sponsor integrations
+  
+## Team Bogos Binted
 
-## Open questions
+Hack N Pitch 2026.
 
-- What exactly does Amateur / Intermediate mode offer?
-- Final squad size limit
-- Pricing for individual adventures
-- Structure of sponsor and tourism partnerships
-- How checkpoint arrival is verified when GPS is unreliable
-
-## Credits and licensing
-
-- **Code license:** *(add, for example MIT)*
-- **Assets:** list every third-party sprite, model, sound and font here with its source and license (CC0, open-source packs, free asset stores). Original assets made by the team should be listed separately.
-
-| Asset | Source | License |
-|---|---|---|
-| *(example)* | *(link)* | *(CC0)* |
-
-## Team
-
-Four members, Hack N Pitch 2026.
-
-| Name | Role |
-|---|---|
-| *(add)* | *(add)* |
-| *(add)* | *(add)* |
-| *(add)* | *(add)* |
-| *(add)* | *(add)* |
+| Members |
+|---|
+| Sagnik Saha | 
+| Soumalya Chattopadhyay | 
+| Dipsikha Jash | 
+| Rajanya Mukherjee | 
 
 ---
 
