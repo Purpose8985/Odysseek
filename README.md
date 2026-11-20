@@ -2,11 +2,7 @@
 
 > *The city is the playground. The story is the journey. The player is the explorer.*
 
-**odysseek** is a real-world, location-based treasure hunt game. Players pick a city, follow a story, solve riddles to work out where to go next, and physically travel to each checkpoint to unlock the next chapter. It blends storytelling, puzzle-solving, exploration and local tourism.
-
-Built by a team of four for **Hack N Pitch 2026**.
-
-**Status:** concept and initial product vision. Features marked *(open)* below are still being decided.
+**Odysseek** is a real-world, location-based treasure hunt game. Players pick a city, follow a story, solve riddles to work out where to go next, and physically travel to each checkpoint to unlock the next chapter. It blends storytelling, puzzle-solving, exploration and local tourism.
 
 ---
 
@@ -17,6 +13,13 @@ Built by a team of four for **Hack N Pitch 2026**.
 - [Game modes](#game-modes)
 - [Features](#features)
 - [Cities and adventures](#cities-and-adventures)
+- [Business model](#business-model)
+- [Tech stack (proposed)](#tech-stack-proposed)
+- [Roadmap](#roadmap)
+- [Open questions](#open-questions)
+- [Credits and licensing](#credits-and-licensing)
+- [Team](#team)
+
 ---
 
 ## The idea
@@ -70,17 +73,28 @@ Candidate cities: Kolkata, Mumbai, Delhi, Lucknow, Kanpur, Chennai, and other ma
 
 Each city can hold several independent adventures (for example, four to six in Kolkata), each with its own story, route and area. New adventures can be added to existing cities over time.
 
+## Tech stack (proposed)
 
-## Team Bogos Binted
+The concept document does not lock in a stack. The choices below are proposals for the hackathon build and can change.
 
-Hack N Pitch 2026.
+| Area | Proposal |
+|---|---|
+| Game client | Free or open-source engine (for example Godot, or Phaser for web) |
+| Maps | Google Maps or an equivalent mapping service |
+| Location | Device GPS with geofenced checkpoints |
+| Backend | Accounts, progress, leaderboards and ratings (service to be chosen) |
+| Content | Adventures, clues and trivia stored as data so new cities and hunts need no new code |
 
-| Members |
+
+## Team
+Team Bogos Binted
+
+| Members | 
 |---|
-| Sagnik Saha | 
-| Soumalya Chattopadhyay | 
-| Dipsikha Jash | 
-| Rajanya Mukherjee | 
+| *Sagnik Saha* | 
+| *Soumalya Chattopadhyay* | 
+| *Dipsikha Jash* | 
+| *Rajanya  Mukherjee* | 
 
 ---
 
