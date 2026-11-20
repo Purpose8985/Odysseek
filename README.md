@@ -13,11 +13,7 @@
 - [Game modes](#game-modes)
 - [Features](#features)
 - [Cities and adventures](#cities-and-adventures)
-- [Business model](#business-model)
 - [Tech stack (proposed)](#tech-stack-proposed)
-- [Roadmap](#roadmap)
-- [Open questions](#open-questions)
-- [Credits and licensing](#credits-and-licensing)
 - [Team](#team)
 
 ---
