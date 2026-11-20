@@ -20,10 +20,6 @@ Built by a team of four for **Hack N Pitch 2026**.
 - [Business model](#business-model)
 - [Tech stack (proposed)](#tech-stack-proposed)
 - [Roadmap](#roadmap)
-- [Open questions](#open-questions)
-- [Credits and licensing](#credits-and-licensing)
-- [Team](#team)
-
 ---
 
 ## The idea
