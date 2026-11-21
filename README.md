@@ -95,3 +95,6 @@ Team Bogos Binted
 ---
 
 *odysseek is not just about finding a location. It is about discovering the story behind it, exploring the journey towards it and experiencing the city in a completely different way.*
+
+website:
+https://odysseek.vercel.app/#home
