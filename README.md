@@ -1,6 +1,10 @@
 game link website:
 https://odysseek.vercel.app/#home
 
+QR Code:
+![Uploading image.png…]()
+
+
 # Odysseek
 
 > *The city is the playground. The story is the journey. The player is the explorer.*
