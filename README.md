@@ -2,7 +2,7 @@ game link website:
 https://odysseek.vercel.app/#home
 
 QR Code:
-![Uploading image.png…]()
+<img width="1239" height="1239" alt="image" src="https://github.com/user-attachments/assets/e0d2f672-a7b7-4fbe-a064-0bd4c411792a" />
 
 
 # Odysseek
